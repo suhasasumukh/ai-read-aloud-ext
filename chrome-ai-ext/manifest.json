@@ -1,0 +1,22 @@
+
+{
+  "manifest_version": 2,
+
+  "name": "AI Read Selected Text",
+  "description": "The AI will read the selected Text anywhere",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
