@@ -28,10 +28,9 @@ cd ./ai-read-aloud-ext
 
 <p>3. Upload the files to the chrome extension</p>
 
-```
-use this steps to download
-```
-
+<h4>
+use this steps to install the extension on to the browser, <a href="https://github.com/suhasasumukh/AI-Youtube-Ad-Closer#how-to-install-the-extension-step-by-step-procedure-">🔗Link</a>
+</h4>
   
   
 <h2>💻 Built with</h2>
@@ -49,4 +48,4 @@ This project is licensed under the This project is licensed under the MIT licens
 
 <h2>💖Like my work?</h2>
 
-If you like my work please follow me on twitter to get more daily insights on AI/ML Fontend and Technology
+If you like my work please follow me on <a href="https://twitter.com/suhasasumukh">twitter</a> to get more daily insights on AI/ML Fontend and Technology
